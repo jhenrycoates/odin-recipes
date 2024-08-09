@@ -1,0 +1,25 @@
+* {
+    background-color: aliceblue;
+}
+
+h1 {
+    text-align: center;
+    color: rgb(221, 176, 116);
+    font-size: 45px;
+}
+
+.recipe {
+    font-size: 20px;
+    text-align: center;
+    list-style: none;
+}
+
+.home-link {
+    text-decoration: none;
+    color: #31312e;
+}
+
+.home-link:hover {
+    background-color: #31312e;
+    color: aliceblue;
+}
