@@ -1,0 +1,32 @@
+* {
+    background-color: aliceblue;
+}
+
+h1 {
+    text-align: center;
+    color: rgb(221, 176, 116);
+    font-size: 45px;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+    height: auto;
+}
+
+h2, h3 {
+    text-align: center;
+    color: #31312e;
+}
+
+p {
+    text-align: center;
+}
+
+li {
+    text-align: left;
+    list-style-position: inside;
+    margin-left: 30vw;
+}
