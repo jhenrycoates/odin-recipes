@@ -1,19 +1,18 @@
 * {
     background-color: aliceblue;
+    font-family: Monaco, Courier, monospace;
 }
 
 h1 {
     text-align: center;
     color: rgb(221, 176, 116);
     font-size: 45px;
-    font-family: Monaco, Courier, monospace;
 }
 
 .recipe {
     font-size: 20px;
     text-align: center;
     list-style: none;
-    font-family: Monaco, Courier, monospace;
 }
 
 .home-link {
